@@ -6,7 +6,7 @@ export const contractConst = "0x5238432D762a343c3B80870bd4E7DeD58e44E2ba";
 
 // The name of the chain your contract is deployed to.
 // Refer to README.md on how to specify the chain name.
-export const mycustomChain = {
+export const chainConst = {
     // === Required information for connecting to the network === \\
     chainId: 3944093, // Chain ID of the network
     // Array of RPC URLs to use
